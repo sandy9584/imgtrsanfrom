@@ -1,0 +1,9 @@
+{
+  "usingComponents": {},
+  "navigationBarTitleText": "人像动漫画",
+  "navigationBarBackgroundColor": "#ff5777",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true
+}
+
+

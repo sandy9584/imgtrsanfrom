@@ -1,0 +1,7 @@
+<view class="cartoonImg">
+<image src="{{img_url}}" bindtap="previewImg"></image>
+<view class="btn">
+<button bindtap="chooseImg" data-type="animate">动漫</button>
+<button bindtap="chooseImg" data-type="masks">口罩</button>
+</view>
+</view>

@@ -1,0 +1,7 @@
+{
+  "usingComponents": {},
+  "navigationBarTitleText": "黑白图像上色",
+  "navigationBarBackgroundColor": "#ff5777",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true
+}

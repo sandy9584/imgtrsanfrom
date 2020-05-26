@@ -1,0 +1,6 @@
+{
+  "usingComponents": {},
+  "navigationBarTitleText": "图像去雾",  "navigationBarBackgroundColor": "#ff5777",
+"navigationBarTextStyle": "white",
+"enablePullDownRefresh":true
+}

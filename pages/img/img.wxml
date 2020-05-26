@@ -1,0 +1,8 @@
+<!--pages/img/img.wxml-->
+<!--pages/category/category.wxml-->
+<view class="cartoonImg">
+<image src="{{img_url}}" bindtap="previewImg"></image>
+<view class="btn">
+<button bindtap="chooseImg">图像清晰度增强</button>
+</view>
+</view>

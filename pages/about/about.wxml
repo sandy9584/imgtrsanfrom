@@ -1,0 +1,7 @@
+<!--pages/about/about.wxml-->
+<view class="cartoonImg">
+<image src="{{img_url}}" bindtap="previewImg"></image>
+<view class="btn">
+<button bindtap="chooseImg">黑白图像上色</button>
+</view>
+</view>

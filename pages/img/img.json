@@ -1,0 +1,7 @@
+{
+  "usingComponents": {},
+  "navigationBarTitleText": "图像清晰度增强",
+  "navigationBarBackgroundColor": "#ff5777",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true
+}

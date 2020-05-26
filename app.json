@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/about/about",
+    "pages/category/category",
+    "pages/img/img"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light", 
+    "navigationBarBackgroundColor": "#ff5777",
+    "navigationBarTitleText": "图像效果转换",
+    "navigationBarTextStyle": "white"
+  },
+     "tabBar": {
+    "list": [{
+      "pagePath":"pages/home/home",
+      "text": "人像动漫画",
+       "iconPath": "assels/tabbar/home.png",
+      "selectedIconPath": "assels/tabbar/home_active.png"
+    },
+    {
+      "pagePath": "pages/category/category",
+      "text": "图像去雾",
+      "iconPath": "assels/tabbar/category.png",
+  "selectedIconPath":"assels/tabbar/category_active.png"
+    },
+      {
+        "pagePath": "pages/about/about",
+        "text": "黑白图像上色",
+        "iconPath": "assels/tabbar/category.png",
+  "selectedIconPath":"assels/tabbar/category_active.png"
+      },
+      {
+        "pagePath": "pages/img/img",
+        "text": "图像清晰度增强",
+        "iconPath": "assels/tabbar/category.png",
+        "selectedIconPath": "assels/tabbar/category_active.png"
+      }]
+     },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

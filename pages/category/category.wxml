@@ -1,0 +1,7 @@
+<!--pages/category/category.wxml-->
+<view class="cartoonImg">
+<image src="{{img_url}}" bindtap="previewImg"></image>
+<view class="btn">
+<button bindtap="chooseImg">图像去雾</button>
+</view>
+</view>
